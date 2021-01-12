@@ -1,8 +1,8 @@
-<p align="center">
 <h3 align="center">ausgezoomt</h3>
 <p align="center">Zoom Emergency Stop Button</p>
 
-<img align="center" src="https://github.com/duuusen/ausgezoomt/blob/master/ausgezoomt.png" width="400">
+<p align="center">
+<img src="https://github.com/duuusen/ausgezoomt/blob/master/ausgezoomt.png" width="400">
 </p>
 
 A brute yet cathartic  emergency stop button to quickly end all zoom meetings.
