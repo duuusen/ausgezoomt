@@ -1,7 +1,7 @@
 <h3 align="center">ausgezoomt</h3>
 <p align="center">Zoom Emergency Stop Button</p>
 
-<img src="https://github.com/duuusen/ausgezoomt/blob/master/ausgezoomt.png" width="400">
+<img align="center" src="https://github.com/duuusen/ausgezoomt/blob/master/ausgezoomt.png" width="400">
 
 A brute yet cathartic  emergency stop button to quickly end all zoom meetings.
 Inspired by [Brian Moore](https://github.com/lanewinfield/zoomout) and [elliotmade](https://www.instructables.com/Zoom-Meetings-Physical-Mute-Button/), but with a rather rough approach by force quitting zoom, preventing all dialogues and resistance.
