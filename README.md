@@ -1,4 +1,4 @@
-<h3 align="center">ausgezoomt</h3>
+<h3 align="center">ausgezoomt!</h3>
 <p align="center">Zoom Emergency Stop Button</p>
 
 <p align="center">
@@ -9,12 +9,12 @@ A brute yet cathartic  emergency stop button to quickly end all zoom meetings.
 Inspired by [Brian Moore](https://github.com/lanewinfield/zoomout) and [elliotmade](https://www.instructables.com/Zoom-Meetings-Physical-Mute-Button/), but with a rather rough approach by force quitting zoom, preventing all dialogues and resistance.
 
 ## Method
-It uses a Digispark ATtiny85, a cute little Arduino clone, which acts as an external keyboard. When pressed (complete circuit), it sends a configurable keystroke, which [Alfred](https://www.alfredapp.com) registers and then triggers an AppleScript, killing the zoom process.
+It uses a Digispark ATtiny85, a cute little Arduino clone, which acts as an external keyboard. When pressed (complete circuit), it sends a configurable keystroke, which [Alfred](https://www.alfredapp.com) registers and then triggers an AppleScript, killing the zoom (and google meet tabs) process.
 
 ## Building & Installing
 ### Libraries & Board Controllers
 - [Digispark](https://github.com/digistump/DigistumpArduino)
-- [OneButton](https://github.com/mathertel/OneButton) (using this library simplifies the otherwhise 'very complex interaction' buttons provide)
+- [OneButton](https://github.com/mathertel/OneButton) (because buttons provide _'very complex interaction'_)
 
 ### Hardware
 - Most badass emergency stop button you can find
