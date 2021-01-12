@@ -1,4 +1,4 @@
-<h3 align="center">ausgezoomt!</h3>
+<h3 align="center">ausgezoomt</h3>
 <p align="center">Zoom Emergency Stop Button</p>
 
 <p align="center">
