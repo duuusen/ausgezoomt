@@ -1,6 +1,8 @@
 <h3 align="center">ausgezoomt</h3>
 <p align="center">Zoom Emergency Stop Button</p>
 
+ ![brutally ending a zoom call](ausgezoomt.png)
+
 A brute yet cathartic  emergency stop button to quickly end all zoom meetings.
 Inspired by [Brian Moore](https://github.com/lanewinfield/zoomout) and [elliotmade](https://www.instructables.com/Zoom-Meetings-Physical-Mute-Button/), but with a rather rough approach by force quitting zoom, preventing all dialogues and resistance.
 
@@ -24,4 +26,4 @@ Like elliotmade's [example](https://www.instructables.com/Zoom-Meetings-Physical
 - 10k resistor between 5V and P0
 - Wires at GND and P0
 
-Careful not to create any short circuits, as the board does not have short circuit protection and could damage the USB port.
+Careful not to create any short circuits, as the board does not have a short circuit protection and could damage the USB port.
